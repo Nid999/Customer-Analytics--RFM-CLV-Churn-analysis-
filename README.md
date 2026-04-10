@@ -12,7 +12,8 @@ The objective is to transform raw transactional data into actionable business in
   - Customer details
   - Orders & transactions
   - Payments & order value
-
+  - data link 
+https://drive.google.com/file/d/1SCT3a0TCl1VvKHkbYkIJnjRXfVgk2MPW/view?usp=drivesdk
 
 # Tools & Technologies Used
 - **SQL (MySQL Workbench)** → transformation and feature engineering  
